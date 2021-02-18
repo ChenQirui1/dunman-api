@@ -1,4 +1,5 @@
 #google oauth api
+#check flask blueprint
 '''
 @app.route("/login")
 def login():
